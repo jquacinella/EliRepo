@@ -1,12 +1,13 @@
 # As of Sun Nov 27th
 
-- TODO: Lookup projects with RaspPi to see if youre interested
-- TODAY: Went over git, created new repo and added as collaborator
-- TODAY: Go over chap 5 on linux booting
-- TODAY: spend time creating a lab using virtualbox; got Kali and Win10
-- HW: Configure kali box
-- HW: Configure windows box
-- HW: Make them pingable to each other
+- **TODO**: Lookup projects with RaspPi to see if youre interested
+- **TODAY**: Went over git, created new repo and added as collaborator
+- **TODAY**: Go over chap 5 on linux booting
+- **TODAY**: spend time creating a lab using virtualbox; got Kali and Win10
+- **HW**: Configure kali box
+- **HW**: Configure windows box
+- **HW**: Make them pingable to each other
+- **HW** Attempt this python project: http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/CaesarCypher/project04.pdf
 
 ## Links
   - http://askubuntu.com/questions/760671/could-not-load-vboxdrv-after-upgrade-to-ubuntu-16-04-and-i-want-to-keep-secur
