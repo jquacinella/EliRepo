@@ -6,6 +6,7 @@ Used http://www.khromozome.com/how-to-hack-windows-10-using-kali-linux/ to setup
 
 - **HW** Attempt this python project: http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/CaesarCypher/project04.pdf
 - **HW** Continue meterpreter attack from kali to windows
+- **HW** Lookup projects with RaspPi to see if youre interested below
 
 # As of Sun Nov 27th
 
