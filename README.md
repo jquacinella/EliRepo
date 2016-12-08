@@ -8,6 +8,8 @@ Used http://www.khromozome.com/how-to-hack-windows-10-using-kali-linux/ to setup
 - **HW** Continue meterpreter attack from kali to windows
 - **HW** Lookup projects with RaspPi to see if youre interested below
 - **HW** Watch the SS7 video: http://www.technob.net/2016/12/hack-any-social-media-account-in-less.html?m=1
+- **HW** CC Attack: https://fossbytes.com/distributed-guessing-attack-credit-card-six-seconds/
+
 
 # As of Sun Nov 27th
 
