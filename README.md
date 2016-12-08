@@ -1,3 +1,12 @@
+# As of Sun Dec 7th
+
+We got the virtual machines to communicate by adding two adapters, and setting the first one to NAT and the other one to internal. The internal network adapters need manual ip addresses and the other ones need DHCP to auto configure their ip address.
+
+Used http://www.khromozome.com/how-to-hack-windows-10-using-kali-linux/ to setup an attack
+
+- **HW** Attempt this python project: http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/CaesarCypher/project04.pdf
+- **HW** Continue meterpreter attack from kali to windows
+
 # As of Sun Nov 27th
 
 - **TODO**: Lookup projects with RaspPi to see if youre interested
