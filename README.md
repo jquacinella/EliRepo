@@ -24,6 +24,7 @@ Used http://www.khromozome.com/how-to-hack-windows-10-using-kali-linux/ to setup
     - "This isn’t something you’d want to stick in your pocket, but it’s amazing to think you can take a Raspberry Pi and combine it with a GSM module, battery, and TFT touch screen to create a homegrown cell phone"
   - https://github.com/pwnieexpress/raspberry_pwn
     - Penetration testing with RaspPi
+  - http://makezine.com/2016/12/08/5-raspberry-pi-projects-wil-wheaton/
 
 - **TODAY**: Went over git, created new repo and added as collaborator
 - **TODAY**: Go over chap 5 on linux booting
