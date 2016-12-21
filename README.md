@@ -1,3 +1,9 @@
+# As of Wed Dec 21st
+
+- See if https://www.gns3.com/ is of any use / interest
+- Start planning for https://github.com/pwnieexpress/raspberry_pwn/blob/master/README.md
+- Python project?
+
 # As of Wed Dec 7th
 
 We got the virtual machines to communicate by adding two adapters, and setting the first one to NAT and the other one to internal. The internal network adapters need manual ip addresses and the other ones need DHCP to auto configure their ip address.
