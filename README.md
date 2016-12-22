@@ -1,5 +1,6 @@
 # As of Wed Dec 21st
 
+- **HW** Attempt this python project: http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/CaesarCypher/project04.pdf
 - GNS3
   - https://www.csd.uoc.gr/~hy435/material/GNS3-0.5-tutorial.pdf
   - http://commonerrors.blogspot.com/2015/08/gns3-tutorials-for-beginners-how-to.html
