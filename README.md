@@ -1,9 +1,21 @@
 # As of Wed Dec 21st
 
-- See if https://www.gns3.com/ is of any use / interest
-- Start planning for https://github.com/pwnieexpress/raspberry_pwn/blob/master/README.md
-- Python project?
-
+- GNS3
+  - https://www.csd.uoc.gr/~hy435/material/GNS3-0.5-tutorial.pdf
+  - http://commonerrors.blogspot.com/2015/08/gns3-tutorials-for-beginners-how-to.html
+  - http://gns3-tutorials.blogspot.com/2015/01/router-basic-command-and-static-route.html
+- SS7
+  - http://www.dslreports.com/forum/r30710693-Getting-access-to-SS7
+  - http://resources.infosecinstitute.com/ss7-protocol-how-hackers-might-find-you/#gref (interesting)
+  - http://axicom.com/en/blog/The-One-Weird-Network-That-Hackers-Use-to-Get-Your-Data
+  - https://www.blackhat.com/presentations/bh-europe-07/Langlois/Presentation/bh-eu-07-langlois-ppt-apr19.pdf (great overview of SS7, maybe try to find the video associated with this presentation)
+  - https://news.ycombinator.com/item?id=8804916
+  - https://blog.c22.cc/2009/12/28/26c3-sccp-hacking-attacking-ss7-sigtran-applications/
+  - http://www.hackitoergosum.org/2010/HES2010-planglois-Attacking-SS7.pdf
+  - http://arstechnica.com/security/2016/04/how-hackers-eavesdropped-on-a-us-congressman-using-only-his-phone-number/
+  - https://insinuator.net/2016/02/ss7maper-a-ss7-pen-testing-toolkit/
+  - https://www.quora.com/How-can-one-get-access-to-an-SS7-network
+  
 # As of Wed Dec 7th
 
 We got the virtual machines to communicate by adding two adapters, and setting the first one to NAT and the other one to internal. The internal network adapters need manual ip addresses and the other ones need DHCP to auto configure their ip address.
