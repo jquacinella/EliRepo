@@ -1,3 +1,13 @@
+# As of Jan 4th
+
+- **HW** Continue wokring on getting Cisco IOS images into GNS3
+- **HW** Follow https://www.csd.uoc.gr/%7Ehy435/material/GNS3-0.5-tutorial.pdf, starting with page 13
+- **HW** Attempt this python project: http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/CaesarCypher/project04.pdf
+- **HW** 
+
+- **Project** get social networking tool on raspberry pi, get it to arp spoof using mitmf a victim on same network
+
+
 # As of Wed Dec 21st
 
 - **HW** Attempt this python project: http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/CaesarCypher/project04.pdf
